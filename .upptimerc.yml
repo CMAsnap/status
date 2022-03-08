@@ -3,6 +3,8 @@ owner: CMAsnap # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
+  - name: CMAsnap Website
+    url: https://cmasnap.com/
   - name: CMAsnap (Beta)
     url: https://beta.cmasnap.com/api/ping/
     icon: https://beta.cmasnap.com/static/media/favicon/apple-icon-180.png
