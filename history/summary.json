@@ -1,5 +1,23 @@
 [
   {
+    "name": "CMAsnap Website",
+    "url": "https://cmasnap.com/",
+    "icon": "https://favicons.githubusercontent.com/cmasnap.com",
+    "slug": "cm-asnap-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 41,
+    "timeDay": 41,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 41,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "CMAsnap (Beta)",
     "url": "https://beta.cmasnap.com/api/ping/",
     "icon": "https://beta.cmasnap.com/static/media/favicon/apple-icon-180.png",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 292,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3599,
-    "timeDay": 3599,
-    "timeWeek": 3599,
-    "timeMonth": 3599,
-    "timeYear": 3599,
+    "time": 4095,
+    "timeDay": 4095,
+    "timeWeek": 4095,
+    "timeMonth": 4095,
+    "timeYear": 4095,
     "dailyMinutesDown": {}
   }
 ]
