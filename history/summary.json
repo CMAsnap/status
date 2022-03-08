@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/print-cmasnap.herokuapp.com",
     "slug": "cm-asnap-print",
     "status": "up",
-    "uptime": "1.32%",
-    "uptimeDay": "1.32%",
-    "uptimeWeek": "1.32%",
-    "uptimeMonth": "1.32%",
-    "uptimeYear": "1.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2508,
     "timeDay": 2508,
     "timeWeek": 2508,
     "timeMonth": 2508,
     "timeYear": 2508,
-    "dailyMinutesDown": {
-      "2022-03-08": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
