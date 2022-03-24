@@ -1,7 +1,7 @@
 url: https://print-cmasnap.herokuapp.com/api/render/?url=https%3A%2F%2Fbeta.cmasnap.com%2Freports%2Fbd334ffe-638d-4f87-8042-cec2c18b2406%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html
 status: up
 code: 200
-responseTime: 4530
-lastUpdated: 2022-03-23T23:20:25.753Z
+responseTime: 5848
+lastUpdated: 2022-03-24T23:20:56.281Z
 startTime: Tue Mar 08 2022 18:40:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
