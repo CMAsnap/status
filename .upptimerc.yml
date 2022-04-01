@@ -5,15 +5,15 @@ repo: status # The name of this repository
 sites:
   - name: CMAsnap Website
     url: https://cmasnap.com/
-  - name: CMAsnap (Beta)
-    url: https://beta.cmasnap.com/api/ping/
+  - name: CMAsnap (App)
+    url: https://app.cmasnap.com/api/ping/
     icon: https://beta.cmasnap.com/static/media/favicon/apple-icon-180.png
-  - name: CMAsnap (Staging)
-    url: https://cmasnap-staging.herokuapp.com/api/ping/
-    icon: https://cmasnap-staging.herokuapp.com/static/media/favicon/apple-icon-180.png
-  - name: CMAsnap (Development)
-    url: https://cmasnap-development.herokuapp.com/api/ping/
-    icon: https://cmasnap-development.herokuapp.com/static/media/favicon/apple-icon-180.png
+#   - name: CMAsnap (Staging)
+#     url: https://cmasnap-staging.herokuapp.com/api/ping/
+#     icon: https://cmasnap-staging.herokuapp.com/static/media/favicon/apple-icon-180.png
+#   - name: CMAsnap (Development)
+#     url: https://cmasnap-development.herokuapp.com/api/ping/
+#     icon: https://cmasnap-development.herokuapp.com/static/media/favicon/apple-icon-180.png
   - name: CMAsnap Print
     url: "https://print-cmasnap.herokuapp.com/api/render/?url=https%3A%2F%2Fbeta.cmasnap.com%2Freports%2Fbd334ffe-638d-4f87-8042-cec2c18b2406%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html"
     headers:
