@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/ping/
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2022-04-06T15:40:56.022Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2022-04-06T15:51:49.321Z
 startTime: Fri Apr 01 2022 01:49:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
