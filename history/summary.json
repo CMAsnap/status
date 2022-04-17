@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 43,
-    "timeWeek": 315,
+    "time": 270,
+    "timeDay": 70,
+    "timeWeek": 266,
     "timeMonth": 274,
-    "timeYear": 275,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://app.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "cm-asnap-app",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 211,
-    "timeDay": 96,
-    "timeWeek": 223,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 204,
+    "timeDay": 57,
+    "timeWeek": 199,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2022-04-05": 37
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5037,
-    "timeDay": 3876,
-    "timeWeek": 4314,
-    "timeMonth": 5083,
-    "timeYear": 5037,
+    "time": 5010,
+    "timeDay": 3844,
+    "timeWeek": 4224,
+    "timeMonth": 5003,
+    "timeYear": 5010,
     "dailyMinutesDown": {}
   }
 ]
