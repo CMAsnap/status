@@ -42,19 +42,19 @@
     "url": "https://print-cmasnap.herokuapp.com/api/render/?url=https%3A%2F%2Fbeta.cmasnap.com%2Freports%2Fbd334ffe-638d-4f87-8042-cec2c18b2406%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html",
     "icon": "https://favicons.githubusercontent.com/print-cmasnap.herokuapp.com",
     "slug": "cm-asnap-print",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4927,
-    "timeDay": 4072,
-    "timeWeek": 4236,
-    "timeMonth": 4834,
-    "timeYear": 4927,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 4909,
+    "timeDay": 4042,
+    "timeWeek": 4208,
+    "timeMonth": 4809,
+    "timeYear": 4909,
     "dailyMinutesDown": {
-      "2022-04-23": 0
+      "2022-04-23": 25
     }
   }
 ]
