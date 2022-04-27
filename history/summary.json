@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 28,
-    "timeWeek": 254,
-    "timeMonth": 276,
-    "timeYear": 266,
+    "time": 269,
+    "timeDay": 401,
+    "timeWeek": 255,
+    "timeMonth": 287,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 198,
-    "timeDay": 106,
+    "time": 200,
+    "timeDay": 272,
     "timeWeek": 185,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2022-04-05": 37
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/print-cmasnap.herokuapp.com",
     "slug": "cm-asnap-print",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 4870,
-    "timeDay": 4368,
-    "timeWeek": 4050,
-    "timeMonth": 4750,
-    "timeYear": 4870,
+    "uptimeYear": "99.97%",
+    "time": 4855,
+    "timeDay": 4042,
+    "timeWeek": 4065,
+    "timeMonth": 4746,
+    "timeYear": 4855,
     "dailyMinutesDown": {
       "2022-04-23": 25
     }
