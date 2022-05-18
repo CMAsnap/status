@@ -14,6 +14,9 @@ sites:
   - name: CMAsnap (Development)
     url: https://development.cmasnap.com/api/ping/
     icon: https://development.cmasnap.com/static/media/favicon/apple-icon-180.png
+  - name: Reports (Metabase)
+    url: https://reports.cmasnap.com/api/health
+    icon: https://reports.cmasnap.com/app/assets/img/favicon.ico
   - name: CMAsnap Print
     url: "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fbeta.cmasnap.com%2Freports%2Fbd334ffe-638d-4f87-8042-cec2c18b2406%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html"
     headers:
