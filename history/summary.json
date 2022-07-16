@@ -59,19 +59,17 @@
     "icon": "https://staging.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "staging",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 186,
     "timeWeek": 160,
     "timeMonth": 174,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2022-07-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Development",
@@ -79,38 +77,36 @@
     "icon": "https://development.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "development",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 243,
     "timeWeek": 176,
     "timeMonth": 168,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2022-07-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reports",
     "url": "https://reports.cmasnap.com/api/health",
     "icon": "https://reports.cmasnap.com/app/assets/img/favicon.ico",
     "slug": "reports",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 200,
-    "timeDay": 256,
-    "timeWeek": 162,
-    "timeMonth": 226,
+    "timeDay": 215,
+    "timeWeek": 164,
+    "timeMonth": 224,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2022-07-16": 11
+      "2022-07-16": 31
     }
   },
   {
@@ -118,19 +114,19 @@
     "url": "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html",
     "icon": "https://favicons.githubusercontent.com/print.cmasnap.com",
     "slug": "print",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 10237,
-    "timeDay": 9340,
-    "timeWeek": 7923,
-    "timeMonth": 10678,
-    "timeYear": 10237,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 10229,
+    "timeDay": 9236,
+    "timeWeek": 8074,
+    "timeMonth": 10661,
+    "timeYear": 10229,
     "dailyMinutesDown": {
-      "2022-07-16": 11
+      "2022-07-16": 31
     }
   }
 ]
