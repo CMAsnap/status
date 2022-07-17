@@ -41,19 +41,17 @@
     "icon": "https://beta.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "beta",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 140,
     "timeWeek": 176,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2022-07-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging",
