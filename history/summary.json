@@ -76,9 +76,9 @@
     "url": "https://development.cmasnap.com/api/ping/",
     "icon": "https://development.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 173,
     "timeMonth": 174,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-24": 0
+    }
   },
   {
     "name": "Reports",
@@ -123,7 +125,7 @@
     "time": 10156,
     "timeDay": 7138,
     "timeWeek": 9189,
-    "timeMonth": 10784,
+    "timeMonth": 10562,
     "timeYear": 10156,
     "dailyMinutesDown": {
       "2022-07-16": 31
