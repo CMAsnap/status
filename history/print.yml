@@ -1,7 +1,7 @@
 url: https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html
 status: up
 code: 200
-responseTime: 9725
-lastUpdated: 2022-08-15T23:22:18.493Z
+responseTime: 9359
+lastUpdated: 2022-08-16T23:20:24.905Z
 startTime: Wed May 18 2022 15:20:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
