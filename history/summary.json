@@ -58,9 +58,9 @@
     "url": "https://staging.cmasnap.com/api/ping/",
     "icon": "https://staging.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +69,18 @@
     "timeWeek": 221,
     "timeMonth": 193,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 0
+    }
   },
   {
     "name": "Development",
     "url": "https://development.cmasnap.com/api/ping/",
     "icon": "https://development.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "development",
-    "status": "up",
+    "status": "down",
     "uptime": "96.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.32%",
     "uptimeYear": "96.94%",
@@ -88,6 +90,7 @@
     "timeMonth": 191,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2022-08-22": 0,
       "2022-07-27": 949,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -99,9 +102,9 @@
     "url": "https://reports.cmasnap.com/api/health",
     "icon": "https://reports.cmasnap.com/app/assets/img/favicon.ico",
     "slug": "reports",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -111,6 +114,7 @@
     "timeMonth": 190,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2022-08-22": 0,
       "2022-07-16": 31
     }
   },
@@ -120,18 +124,18 @@
     "icon": "https://favicons.githubusercontent.com/print.cmasnap.com",
     "slug": "print",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 9836,
     "timeDay": 15187,
     "timeWeek": 9648,
     "timeMonth": 8245,
     "timeYear": 9836,
     "dailyMinutesDown": {
-      "2022-08-22": 0,
+      "2022-08-22": 26,
       "2022-07-16": 31
     }
   }
