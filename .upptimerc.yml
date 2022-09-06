@@ -25,6 +25,9 @@ sites:
     url: "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html"
     headers:
     - "x-api-key: $PRINT_API_TOKEN"
+  - name: Feedback
+    url: https://feedback.cmasnap.com/_health/
+    icon: https://feedback.cmasnap.com/static/images/logos/RWimAUckjywYVHidKhZd7TJZInfPjstsp6BFFVgfN5K1tJYzPuNsoGxjCq56DOSC-firstframe.jpeg?size=100
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
