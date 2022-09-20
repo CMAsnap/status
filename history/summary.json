@@ -22,10 +22,10 @@
     "url": "https://app.cmasnap.com/api/ping/",
     "icon": "https://app.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "cm-asnap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
@@ -33,7 +33,9 @@
     "timeWeek": 176,
     "timeMonth": 568,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 2
+    }
   },
   {
     "name": "Beta",
@@ -80,11 +82,11 @@
     "icon": "https://development.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "development",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.60%",
     "time": 174,
     "timeDay": 298,
     "timeWeek": 152,
@@ -127,9 +129,9 @@
     "url": "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html",
     "icon": "https://favicons.githubusercontent.com/print.cmasnap.com",
     "slug": "print",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.93%",
@@ -139,6 +141,7 @@
     "timeMonth": 8346,
     "timeYear": 9562,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-09-05": 25,
       "2022-08-22": 68,
       "2022-07-16": 31
