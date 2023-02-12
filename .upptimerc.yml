@@ -31,6 +31,14 @@ sites:
   - name: Feedback
     url: https://feedback.cmasnap.com/_health/
     icon: https://feedback.cmasnap.com/static/images/logos/RWimAUckjywYVHidKhZd7TJZInfPjstsp6BFFVgfN5K1tJYzPuNsoGxjCq56DOSC-firstframe.jpeg?size=100
+  - name: ACTRIS (Beta)
+    url: https://beta.cmasnap.com/api/listings?datasetId=actris
+  - name: HAR (Beta)
+    url: https://beta.cmasnap.com/api/listings?datasetId=har
+  - name: CTXMLS (Beta)
+    url: https://beta.cmasnap.com/api/listings?datasetId=ctxmls
+  - name: SABOR (Beta)
+    url: https://beta.cmasnap.com/api/listings?datasetId=sabor
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
