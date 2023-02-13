@@ -3,9 +3,6 @@ owner: CMAsnap # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: Website
-    url: https://www.cmasnap.com/
-    icon: https://7732712.fs1.hubspotusercontent-na1.net/hubfs/7732712/apple-icon-180.png
   - name: CMAsnap
     url: https://app.cmasnap.com/api/ping/
     icon: https://app.cmasnap.com/static/media/favicon/apple-icon-180.png
@@ -18,6 +15,9 @@ sites:
   - name: Development
     url: https://development.cmasnap.com/api/ping/
     icon: https://development.cmasnap.com/static/media/favicon/apple-icon-180.png
+  - name: Website
+    url: https://www.cmasnap.com/
+    icon: https://7732712.fs1.hubspotusercontent-na1.net/hubfs/7732712/apple-icon-180.png
   - name: Reports
     url: https://reports.cmasnap.com/api/health
     icon: https://reports.cmasnap.com/app/assets/img/favicon.ico
