@@ -4,19 +4,19 @@
     "url": "https://app.cmasnap.com/api/ping/",
     "icon": "https://app.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "cm-asnap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 270,
-    "timeWeek": 219,
-    "timeMonth": 194,
+    "timeDay": 168,
+    "timeWeek": 200,
+    "timeMonth": 190,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-03-13": 11
+      "2023-03-13": 21
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html",
     "icon": "https://icons.duckduckgo.com/ip3/print.cmasnap.com.ico",
     "slug": "print",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 7424,
-    "timeDay": 3260,
-    "timeWeek": 4403,
-    "timeMonth": 4443,
-    "timeYear": 7424,
+    "time": 7419,
+    "timeDay": 4009,
+    "timeWeek": 4526,
+    "timeMonth": 4478,
+    "timeYear": 7419,
     "dailyMinutesDown": {
-      "2023-03-13": 0
+      "2023-03-13": 11
     }
   },
   {
@@ -207,18 +207,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "ctxmls-beta",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.82%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 693,
     "timeDay": 870,
     "timeWeek": 1092,
     "timeMonth": 665,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-03-13": 63
+      "2023-03-13": 74
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 166,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-03-13": 1287,
+      "2023-03-13": 1299,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
