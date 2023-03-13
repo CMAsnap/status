@@ -78,18 +78,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
     "timeDay": 379,
     "timeWeek": 366,
     "timeMonth": 298,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2023-03-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reports",
@@ -177,7 +175,7 @@
     "time": 1233,
     "timeDay": 1486,
     "timeWeek": 2226,
-    "timeMonth": 1275,
+    "timeMonth": 1292,
     "timeYear": 1233,
     "dailyMinutesDown": {}
   },
@@ -195,7 +193,7 @@
     "time": 1343,
     "timeDay": 1196,
     "timeWeek": 2129,
-    "timeMonth": 1257,
+    "timeMonth": 1209,
     "timeYear": 1343,
     "dailyMinutesDown": {}
   },
@@ -204,18 +202,20 @@
     "url": "https://beta.cmasnap.com/api/listings?datasetId=ctxmls",
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "ctxmls-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 1023,
-    "timeWeek": 1145,
-    "timeMonth": 662,
-    "timeYear": 692,
-    "dailyMinutesDown": {}
+    "time": 693,
+    "timeDay": 870,
+    "timeWeek": 1092,
+    "timeMonth": 665,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2023-03-13": 0
+    }
   },
   {
     "name": "SABOR (Beta)",
@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "sabor-beta",
     "status": "down",
-    "uptime": "11.26%",
+    "uptime": "11.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.26%",
-    "uptimeYear": "11.26%",
+    "uptimeMonth": "11.08%",
+    "uptimeYear": "11.08%",
     "time": 170,
     "timeDay": 217,
     "timeWeek": 237,
     "timeMonth": 166,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-03-13": 535,
+      "2023-03-13": 1224,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
