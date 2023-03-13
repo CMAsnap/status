@@ -4,9 +4,9 @@
     "url": "https://app.cmasnap.com/api/ping/",
     "icon": "https://app.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "cm-asnap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 219,
     "timeMonth": 194,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-13": 0
+    }
   },
   {
     "name": "Beta",
@@ -203,18 +205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "ctxmls-beta",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 693,
     "timeDay": 870,
     "timeWeek": 1092,
     "timeMonth": 665,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-03-13": 0
+      "2023-03-13": 53
     }
   },
   {
@@ -223,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "sabor-beta",
     "status": "down",
-    "uptime": "11.08%",
+    "uptime": "11.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.08%",
-    "uptimeYear": "11.08%",
+    "uptimeMonth": "11.06%",
+    "uptimeYear": "11.06%",
     "time": 170,
     "timeDay": 217,
     "timeWeek": 237,
     "timeMonth": 166,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-03-13": 1224,
+      "2023-03-13": 1277,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
