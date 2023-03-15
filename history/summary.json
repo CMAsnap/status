@@ -169,18 +169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "actris-beta",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1244,
     "timeDay": 1591,
     "timeWeek": 2019,
     "timeMonth": 1338,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-03-15": 0
+      "2023-03-15": 20
     }
   },
   {
@@ -189,18 +189,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "har-beta",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1340,
     "timeDay": 1469,
     "timeWeek": 1830,
     "timeMonth": 1241,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2023-03-15": 0
+      "2023-03-15": 20
     }
   },
   {
@@ -208,18 +208,19 @@
     "url": "https://beta.cmasnap.com/api/listings?datasetId=ctxmls",
     "icon": "https://icons.duckduckgo.com/ip3/beta.cmasnap.com.ico",
     "slug": "ctxmls-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
-    "time": 726,
-    "timeDay": 926,
-    "timeWeek": 1199,
-    "timeMonth": 719,
-    "timeYear": 726,
+    "time": 730,
+    "timeDay": 911,
+    "timeWeek": 1169,
+    "timeMonth": 725,
+    "timeYear": 730,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-03-13": 118
     }
   },
@@ -232,7 +233,7 @@
     "uptime": "10.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.32%",
+    "uptimeMonth": "10.28%",
     "uptimeYear": "10.58%",
     "time": 170,
     "timeDay": 243,
@@ -240,7 +241,7 @@
     "timeMonth": 168,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-03-15": 305,
+      "2023-03-15": 324,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
