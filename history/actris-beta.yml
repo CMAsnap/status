@@ -1,7 +1,7 @@
 url: https://beta.cmasnap.com/api/listings?datasetId=actris
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2023-03-26T17:28:14.322Z
+status: down
+code: 404
+responseTime: 466
+lastUpdated: 2023-03-26T19:42:59.374Z
 startTime: Sun Feb 12 2023 16:50:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
