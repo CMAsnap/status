@@ -16,7 +16,7 @@ sites:
     url: https://development.cmasnap.com/api/ping/
     icon: https://development.cmasnap.com/static/media/favicon/apple-icon-180.png
   - name: Website
-    url: https://www.cmasnap.com/
+    url: https://cmasnap.com/
     icon: https://7732712.fs1.hubspotusercontent-na1.net/hubfs/7732712/apple-icon-180.png
   - name: Reports
     url: https://reports.cmasnap.com/api/health
