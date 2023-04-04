@@ -39,6 +39,8 @@ sites:
     url: https://beta.cmasnap.com/api/listings?datasetId=ctxmls
   - name: SABOR (Beta)
     url: https://beta.cmasnap.com/api/listings?datasetId=sabor
+  - name: NWMLS (Beta)
+    url: https://beta.cmasnap.com/api/listings?datasetId=nwmls
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
