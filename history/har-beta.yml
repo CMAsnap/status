@@ -1,7 +1,7 @@
 url: https://beta.cmasnap.com/api/listings?datasetId=har
-status: down
-code: 404
-responseTime: 865
-lastUpdated: 2023-04-11T16:11:20.325Z
+status: up
+code: 200
+responseTime: 2791
+lastUpdated: 2023-04-11T17:10:46.188Z
 startTime: Sun Feb 12 2023 16:50:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
