@@ -1,7 +1,7 @@
 url: https://beta.cmasnap.com/api/listings?datasetId=sabor
-status: up
-code: 200
-responseTime: 52
-lastUpdated: 2023-04-20T07:14:01.137Z
+status: down
+code: 404
+responseTime: 249
+lastUpdated: 2023-04-20T16:48:06.953Z
 startTime: Sun Feb 12 2023 16:50:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
