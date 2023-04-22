@@ -1,7 +1,7 @@
 url: https://beta.cmasnap.com/api/listings?datasetId=ctxmls
-status: down
-code: 404
-responseTime: 17
-lastUpdated: 2023-04-22T09:03:37.193Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2023-04-22T20:10:05.180Z
 startTime: Sun Feb 12 2023 16:50:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
