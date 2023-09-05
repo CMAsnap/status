@@ -106,7 +106,7 @@
     "timeDay": 76,
     "timeWeek": 124,
     "timeMonth": 144,
-    "timeYear": 168,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -142,7 +142,7 @@
     "timeDay": 6149,
     "timeWeek": 5917,
     "timeMonth": 5842,
-    "timeYear": 5601,
+    "timeYear": 5592,
     "dailyMinutesDown": {
       "2023-07-10": 15
     }
@@ -278,17 +278,17 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=ntreis",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ntreis",
-    "status": "up",
-    "uptime": "94.48%",
-    "uptimeDay": "89.76%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "94.48%",
-    "time": 55,
-    "timeDay": 41,
+    "status": "down",
+    "uptime": "94.64%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "94.64%",
+    "time": 56,
+    "timeDay": 51,
     "timeWeek": 53,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {
       "2023-09-05": 76,
       "2023-09-04": 81,
