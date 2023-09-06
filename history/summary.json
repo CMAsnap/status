@@ -52,7 +52,7 @@
     "timeDay": 175,
     "timeWeek": 119,
     "timeMonth": 149,
-    "timeYear": 167,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -142,7 +142,7 @@
     "timeDay": 6406,
     "timeWeek": 5949,
     "timeMonth": 5866,
-    "timeYear": 5594,
+    "timeYear": 5591,
     "dailyMinutesDown": {
       "2023-07-10": 15
     }
@@ -279,11 +279,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ntreis",
     "status": "up",
-    "uptime": "94.59%",
+    "uptime": "94.61%",
     "uptimeDay": "93.69%",
     "uptimeWeek": "95.67%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "94.59%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "94.61%",
     "time": 56,
     "timeDay": 57,
     "timeWeek": 53,
