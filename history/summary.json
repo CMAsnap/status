@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 77,
-    "timeWeek": 116,
+    "timeWeek": 108,
     "timeMonth": 273,
-    "timeYear": 302,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2023-05-06": 21
     }
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 88,
-    "timeWeek": 115,
+    "timeWeek": 108,
     "timeMonth": 141,
     "timeYear": 189,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 171,
     "timeDay": 79,
-    "timeWeek": 114,
+    "timeWeek": 109,
     "timeMonth": 143,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 43,
-    "timeWeek": 97,
+    "timeWeek": 90,
     "timeMonth": 133,
     "timeYear": 165,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 269,
-    "timeWeek": 187,
+    "timeWeek": 188,
     "timeMonth": 210,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 88,
-    "timeWeek": 109,
+    "timeWeek": 105,
     "timeMonth": 139,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -140,9 +140,9 @@
     "uptimeYear": "100.00%",
     "time": 6168,
     "timeDay": 5837,
-    "timeWeek": 5935,
+    "timeWeek": 5882,
     "timeMonth": 5854,
-    "timeYear": 5580,
+    "timeYear": 5574,
     "dailyMinutesDown": {
       "2023-07-10": 15
     }
@@ -160,7 +160,7 @@
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 47,
-    "timeWeek": 113,
+    "timeWeek": 105,
     "timeMonth": 158,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -178,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 41,
-    "timeWeek": 76,
+    "timeWeek": 70,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -196,7 +196,7 @@
     "uptimeYear": "100.00%",
     "time": 45,
     "timeDay": 15,
-    "timeWeek": 26,
+    "timeWeek": 24,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {}
@@ -214,7 +214,7 @@
     "uptimeYear": "100.00%",
     "time": 39,
     "timeDay": 14,
-    "timeWeek": 27,
+    "timeWeek": 25,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {}
@@ -232,7 +232,7 @@
     "uptimeYear": "100.00%",
     "time": 38,
     "timeDay": 13,
-    "timeWeek": 25,
+    "timeWeek": 23,
     "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {}
@@ -250,7 +250,7 @@
     "uptimeYear": "100.00%",
     "time": 39,
     "timeDay": 14,
-    "timeWeek": 26,
+    "timeWeek": 24,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {}
@@ -268,7 +268,7 @@
     "uptimeYear": "100.00%",
     "time": 38,
     "timeDay": 13,
-    "timeWeek": 26,
+    "timeWeek": 23,
     "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {}
@@ -279,18 +279,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ntreis",
     "status": "up",
-    "uptime": "94.74%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "94.74%",
-    "uptimeYear": "94.74%",
+    "uptime": "94.82%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "94.82%",
     "time": 56,
     "timeDay": 60,
     "timeWeek": 54,
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2023-09-06": 38,
+      "2023-09-06": 23,
       "2023-09-05": 91,
       "2023-09-04": 81,
       "2023-09-03": 123,
