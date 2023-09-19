@@ -243,18 +243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
     "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "69.76%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.90%",
+    "uptimeDay": "66.83%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 53,
     "timeDay": 295,
     "timeWeek": 86,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2023-09-19": 435
+      "2023-09-19": 478
     }
   },
   {
@@ -263,18 +263,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "tmls",
     "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "69.76%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.90%",
+    "uptimeDay": "66.83%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 40,
     "timeDay": 28,
     "timeWeek": 19,
     "timeMonth": 40,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2023-09-19": 435
+      "2023-09-19": 478
     }
   },
   {
@@ -282,14 +282,14 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=ntreis",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ntreis",
-    "status": "up",
+    "status": "down",
     "uptime": "95.28%",
-    "uptimeDay": "96.36%",
+    "uptimeDay": "96.33%",
     "uptimeWeek": "95.41%",
     "uptimeMonth": "95.28%",
     "uptimeYear": "95.28%",
     "time": 58,
-    "timeDay": 155,
+    "timeDay": 142,
     "timeWeek": 63,
     "timeMonth": 58,
     "timeYear": 58,
