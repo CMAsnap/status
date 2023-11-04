@@ -292,14 +292,14 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=ntreis",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ntreis",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "94.94%",
+    "status": "down",
+    "uptime": "97.71%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "94.93%",
     "uptimeMonth": "95.08%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.71%",
     "time": 80,
-    "timeDay": 71,
+    "timeDay": 73,
     "timeWeek": 93,
     "timeMonth": 89,
     "timeYear": 80,
@@ -337,8 +337,7 @@
       "2023-10-04": 100,
       "2023-10-03": 125,
       "2023-10-02": 92,
-      "2023-10-01": 55,
-      "2023-09-30": 25
+      "2023-10-01": 55
     }
   }
 ]
