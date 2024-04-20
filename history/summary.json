@@ -78,19 +78,19 @@
     "url": "https://cmasnap.com/",
     "icon": "https://7732712.fs1.hubspotusercontent-na1.net/hubfs/7732712/apple-icon-180.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 1820,
-    "timeWeek": 622,
-    "timeMonth": 316,
+    "timeDay": 1342,
+    "timeWeek": 596,
+    "timeMonth": 318,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-04-20": 0
+      "2024-04-20": 14
     }
   },
   {
