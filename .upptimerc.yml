@@ -45,6 +45,8 @@ sites:
     url: https://app.cmasnap.com/api/listings?datasetId=tmls
   - name: NTREIS
     url: https://app.cmasnap.com/api/listings?datasetId=ntreis
+  - name: TRIANGLE
+    url: https://app.cmasnap.com/api/listings?datasetId=triangle
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
