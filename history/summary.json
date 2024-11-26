@@ -24,19 +24,19 @@
     "url": "https://beta.cmasnap.com/api/ping/",
     "icon": "https://beta.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "beta",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 259,
-    "timeWeek": 195,
-    "timeMonth": 188,
+    "timeDay": 323,
+    "timeWeek": 219,
+    "timeMonth": 195,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-11-26": 0
+      "2024-11-26": 17
     }
   },
   {
