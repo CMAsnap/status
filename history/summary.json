@@ -44,9 +44,9 @@
     "url": "https://staging.cmasnap.com/api/ping/",
     "icon": "https://staging.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +55,18 @@
     "timeWeek": 157,
     "timeMonth": 192,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "Development",
     "url": "https://development.cmasnap.com/api/ping/",
     "icon": "https://development.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +75,9 @@
     "timeWeek": 141,
     "timeMonth": 175,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "Website",
@@ -152,18 +156,20 @@
     "url": "https://feedback.cmasnap.com/_health/",
     "icon": "https://feedback.cmasnap.com/static/images/logos/RWimAUckjywYVHidKhZd7TJZInfPjstsp6BFFVgfN5K1tJYzPuNsoGxjCq56DOSC-firstframe.jpeg?size=100",
     "slug": "feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
+    "time": 184,
     "timeDay": 153,
     "timeWeek": 170,
     "timeMonth": 219,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "ACTRIS",
@@ -171,7 +177,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "actris",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -246,7 +252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "sabor",
     "status": "up",
-    "uptime": "96.97%",
+    "uptime": "96.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
