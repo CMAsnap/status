@@ -45,18 +45,18 @@
     "icon": "https://staging.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "staging",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "67.72%",
+    "uptimeWeek": "95.39%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 174,
     "timeDay": 118,
     "timeWeek": 157,
     "timeMonth": 192,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-12-12": 0
+      "2024-12-12": 465
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://development.cmasnap.com/static/media/favicon/apple-icon-180.png",
     "slug": "development",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "67.72%",
+    "uptimeWeek": "95.39%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 170,
     "timeDay": 110,
     "timeWeek": 141,
     "timeMonth": 175,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-12-12": 0
+      "2024-12-12": 465
     }
   },
   {
@@ -138,18 +138,20 @@
     "url": "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html",
     "icon": "https://icons.duckduckgo.com/ip3/print.cmasnap.com.ico",
     "slug": "print",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6497,
+    "time": 6499,
     "timeDay": 13621,
     "timeWeek": 13273,
     "timeMonth": 9349,
     "timeYear": 6673,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "Feedback",
@@ -157,18 +159,18 @@
     "icon": "https://feedback.cmasnap.com/static/images/logos/RWimAUckjywYVHidKhZd7TJZInfPjstsp6BFFVgfN5K1tJYzPuNsoGxjCq56DOSC-firstframe.jpeg?size=100",
     "slug": "feedback",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "67.73%",
+    "uptimeWeek": "95.39%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 184,
     "timeDay": 153,
     "timeWeek": 170,
     "timeMonth": 219,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-12-12": 0
+      "2024-12-12": 465
     }
   },
   {
@@ -288,7 +290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
