@@ -1,7 +1,7 @@
 url: https://beta.cmasnap.com/api/ping/
-status: up
-code: 200
-responseTime: 141
-lastUpdated: 2024-12-24T23:19:03.956Z
+status: down
+code: 504
+responseTime: 151
+lastUpdated: 2024-12-25T17:13:35.588Z
 startTime: 2022-06-20T02:29:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
