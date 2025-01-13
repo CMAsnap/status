@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=tmls
-status: down
-code: 504
-responseTime: 132
-lastUpdated: 2025-01-13T19:09:53.137Z
+status: up
+code: 200
+responseTime: 88
+lastUpdated: 2025-01-13T19:23:16.109Z
 startTime: 2023-08-20T07:46:38.327Z
 generator: Upptime <https://github.com/upptime/upptime>
