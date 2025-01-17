@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=triangle
-status: up
-code: 200
-responseTime: 219
-lastUpdated: 2025-01-16T23:20:27.424Z
+status: down
+code: 404
+responseTime: 88
+lastUpdated: 2025-01-17T15:20:28.829Z
 startTime: 2024-06-02T23:14:27.280Z
 generator: Upptime <https://github.com/upptime/upptime>
