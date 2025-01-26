@@ -41,12 +41,12 @@ sites:
     url: https://app.cmasnap.com/api/listings?datasetId=sabor
   - name: NWMLS
     url: https://app.cmasnap.com/api/listings?datasetId=nwmls
-  - name: TMLS
-    url: https://app.cmasnap.com/api/listings?datasetId=tmls
+  - name: DOORIFY
+    url: https://app.cmasnap.com/api/listings?datasetId=doorify
   - name: NTREIS
     url: https://app.cmasnap.com/api/listings?datasetId=ntreis
-  - name: TRIANGLE
-    url: https://app.cmasnap.com/api/listings?datasetId=triangle
+  - name: CCIMLS
+    url: https://app.cmasnap.com/api/listings?datasetId=ntreis
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
