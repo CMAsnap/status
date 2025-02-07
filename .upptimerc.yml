@@ -12,9 +12,9 @@ sites:
   # - name: Staging
   #   url: https://staging.cmasnap.com/api/ping/
   #   icon: https://staging.cmasnap.com/static/media/favicon/apple-icon-180.png
-  # - name: Development
-  #   url: https://development.cmasnap.com/api/ping/
-  #   icon: https://development.cmasnap.com/static/media/favicon/apple-icon-180.png
+  - name: Development
+    url: https://development.cmasnap.com/api/ping/
+    icon: https://development.cmasnap.com/static/media/favicon/apple-icon-180.png
   - name: Website
     url: https://cmasnap.com/
     icon: https://7732712.fs1.hubspotusercontent-na1.net/hubfs/7732712/apple-icon-180.png
@@ -25,7 +25,7 @@ sites:
   #   url: http://159.223.144.242:4000/status
   #   icon: https://www.pelias.io/img/favicon.ico
   - name: Print
-    url: "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dweb&output=html"
+    url: "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dpdf&output=html"
     headers:
     - "x-api-key: $PRINT_API_TOKEN"
   # - name: Feedback
