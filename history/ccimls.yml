@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=ntreis
-status: down
-code: 504
-responseTime: 34
-lastUpdated: 2025-02-10T21:33:16.204Z
+status: up
+code: 200
+responseTime: 51
+lastUpdated: 2025-02-10T21:54:26.629Z
 startTime: 2025-01-26T15:31:15.537Z
 generator: Upptime <https://github.com/upptime/upptime>
