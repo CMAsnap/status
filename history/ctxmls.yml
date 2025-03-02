@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=ctxmls
-status: down
-code: 504
-responseTime: 35
-lastUpdated: 2025-03-02T02:59:11.550Z
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2025-03-02T03:31:14.951Z
 startTime: 2023-08-20T07:46:36.599Z
 generator: Upptime <https://github.com/upptime/upptime>
