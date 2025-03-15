@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=doorify
-status: down
-code: 404
-responseTime: 61
-lastUpdated: 2025-03-15T09:23:00.522Z
+status: up
+code: 200
+responseTime: 75
+lastUpdated: 2025-03-15T21:21:40.320Z
 startTime: 2025-01-26T15:31:14.491Z
 generator: Upptime <https://github.com/upptime/upptime>
