@@ -72,9 +72,9 @@
     "url": "https://cmasnap.com/",
     "icon": "https://7732712.fs1.hubspotusercontent-na1.net/hubfs/7732712/apple-icon-180.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,7 +83,9 @@
     "timeWeek": 203,
     "timeMonth": 173,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Reports",
