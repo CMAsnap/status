@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=ccimls
-status: down
-code: 404
-responseTime: 121
-lastUpdated: 2025-06-08T23:21:43.014Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2025-06-09T03:55:44.581Z
 startTime: 2025-01-26T15:31:15.537Z
 generator: Upptime <https://github.com/upptime/upptime>
