@@ -1,7 +1,7 @@
 url: https://reports.cmasnap.com/api/health
-status: up
-code: 200
-responseTime: 113
-lastUpdated: 2026-02-10T23:42:21.040Z
+status: down
+code: 504
+responseTime: 420
+lastUpdated: 2026-02-11T14:41:20.562Z
 startTime: 2022-05-18T15:20:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
