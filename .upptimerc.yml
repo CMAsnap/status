@@ -40,6 +40,10 @@ sites:
     url: https://app.cmasnap.com/api/listings?datasetId=ccimls
   - name: REALMLS
     url: https://app.cmasnap.com/api/listings?datasetId=realmls
+  - name: MARIS
+    url: https://app.cmasnap.com/api/listings?datasetId=maris
+  - name: BCSMLS
+    url: https://app.cmasnap.com/api/listings?datasetId=bcsmls
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
