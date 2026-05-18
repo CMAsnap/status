@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=maris
-status: down
-code: 404
-responseTime: 165
-lastUpdated: 2026-05-18T00:01:58.881Z
+status: up
+code: 200
+responseTime: 58
+lastUpdated: 2026-05-18T09:38:56.045Z
 startTime: 2026-02-22T00:27:50.915Z
 generator: Upptime <https://github.com/upptime/upptime>
