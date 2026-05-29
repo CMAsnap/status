@@ -270,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ctxmls",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "85.10%",
+    "uptime": "98.02%",
+    "uptimeDay": "67.65%",
     "uptimeWeek": "44.01%",
-    "uptimeMonth": "72.43%",
-    "uptimeYear": "96.70%",
+    "uptimeMonth": "71.86%",
+    "uptimeYear": "96.65%",
     "time": 243,
     "timeDay": 280,
     "timeWeek": 751,
@@ -319,7 +319,7 @@
       "2026-05-23": 1130,
       "2026-05-26": 560,
       "2026-05-28": 213,
-      "2026-05-29": 1
+      "2026-05-29": 252
     }
   },
   {
@@ -372,11 +372,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
     "status": "down",
-    "uptime": "97.27%",
-    "uptimeDay": "39.23%",
+    "uptime": "97.25%",
+    "uptimeDay": "21.78%",
     "uptimeWeek": "23.82%",
-    "uptimeMonth": "64.42%",
-    "uptimeYear": "95.56%",
+    "uptimeMonth": "63.85%",
+    "uptimeYear": "95.51%",
     "time": 167,
     "timeDay": 160,
     "timeWeek": 157,
@@ -422,7 +422,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 906,
       "2026-05-27": 264,
-      "2026-05-29": 361,
+      "2026-05-29": 612,
       "2026-05-28": 515
     }
   },
@@ -431,16 +431,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=doorify",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "doorify",
-    "status": "up",
+    "status": "down",
     "uptime": "94.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.64%",
-    "uptimeMonth": "91.44%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "94.06%",
     "time": 194,
-    "timeDay": 261,
-    "timeWeek": 164,
-    "timeMonth": 194,
+    "timeDay": 195,
+    "timeWeek": 162,
+    "timeMonth": 193,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-06-09": 236,
@@ -489,7 +489,8 @@
       "2026-05-23": 660,
       "2026-05-24": 358,
       "2026-05-25": 401,
-      "2026-05-26": 634
+      "2026-05-26": 634,
+      "2026-05-29": 1
     }
   },
   {
@@ -588,16 +589,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=realmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "realmls",
-    "status": "up",
-    "uptime": "93.14%",
-    "uptimeDay": "78.11%",
-    "uptimeWeek": "53.81%",
+    "status": "down",
+    "uptime": "93.15%",
+    "uptimeDay": "78.03%",
+    "uptimeWeek": "54.60%",
     "uptimeMonth": "77.99%",
-    "uptimeYear": "93.14%",
+    "uptimeYear": "93.15%",
     "time": 165,
-    "timeDay": 173,
-    "timeWeek": 99,
-    "timeMonth": 184,
+    "timeDay": 167,
+    "timeWeek": 103,
+    "timeMonth": 183,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-06-09": 236,
@@ -652,7 +653,8 @@
       "2026-05-25": 747,
       "2026-05-26": 634,
       "2026-05-27": 264,
-      "2026-05-28": 315
+      "2026-05-28": 315,
+      "2026-05-29": 1
     }
   },
   {
@@ -661,11 +663,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
     "status": "down",
-    "uptime": "85.92%",
-    "uptimeDay": "39.24%",
+    "uptime": "85.77%",
+    "uptimeDay": "21.80%",
     "uptimeWeek": "22.91%",
-    "uptimeMonth": "64.22%",
-    "uptimeYear": "85.92%",
+    "uptimeMonth": "63.65%",
+    "uptimeYear": "85.77%",
     "time": 190,
     "timeDay": 107,
     "timeWeek": 148,
@@ -699,7 +701,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 906,
       "2026-05-27": 356,
-      "2026-05-29": 361,
+      "2026-05-29": 612,
       "2026-05-28": 514
     }
   },
@@ -709,14 +711,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "bcsmls",
     "status": "down",
-    "uptime": "89.99%",
-    "uptimeDay": "63.20%",
-    "uptimeWeek": "33.07%",
-    "uptimeMonth": "71.27%",
-    "uptimeYear": "89.99%",
+    "uptime": "89.82%",
+    "uptimeDay": "45.75%",
+    "uptimeWeek": "31.37%",
+    "uptimeMonth": "70.69%",
+    "uptimeYear": "89.82%",
     "time": 377,
     "timeDay": 196,
-    "timeWeek": 143,
+    "timeWeek": 151,
     "timeMonth": 161,
     "timeYear": 377,
     "dailyMinutesDown": {
@@ -745,7 +747,7 @@
       "2026-05-23": 1440,
       "2026-05-22": 908,
       "2026-05-28": 529,
-      "2026-05-29": 1
+      "2026-05-29": 252
     }
   }
 ]
