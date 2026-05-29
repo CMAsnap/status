@@ -269,16 +269,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=ctxmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ctxmls",
-    "status": "up",
+    "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "85.18%",
-    "uptimeWeek": "43.94%",
+    "uptimeDay": "85.10%",
+    "uptimeWeek": "44.01%",
     "uptimeMonth": "72.43%",
     "uptimeYear": "96.70%",
     "time": 243,
-    "timeDay": 314,
+    "timeDay": 280,
     "timeWeek": 751,
-    "timeMonth": 932,
+    "timeMonth": 917,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-06-09": 236,
@@ -318,7 +318,8 @@
       "2026-05-24": 1440,
       "2026-05-23": 1130,
       "2026-05-26": 560,
-      "2026-05-28": 213
+      "2026-05-28": 213,
+      "2026-05-29": 1
     }
   },
   {
@@ -372,10 +373,10 @@
     "slug": "nwmls",
     "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "46.96%",
+    "uptimeDay": "39.23%",
     "uptimeWeek": "23.82%",
-    "uptimeMonth": "64.68%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "64.42%",
+    "uptimeYear": "95.56%",
     "time": 167,
     "timeDay": 160,
     "timeWeek": 157,
@@ -421,7 +422,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 906,
       "2026-05-27": 264,
-      "2026-05-29": 249,
+      "2026-05-29": 361,
       "2026-05-28": 515
     }
   },
@@ -660,11 +661,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
     "status": "down",
-    "uptime": "85.99%",
-    "uptimeDay": "46.97%",
+    "uptime": "85.92%",
+    "uptimeDay": "39.24%",
     "uptimeWeek": "22.91%",
-    "uptimeMonth": "64.48%",
-    "uptimeYear": "85.99%",
+    "uptimeMonth": "64.22%",
+    "uptimeYear": "85.92%",
     "time": 190,
     "timeDay": 107,
     "timeWeek": 148,
@@ -698,7 +699,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 906,
       "2026-05-27": 356,
-      "2026-05-29": 249,
+      "2026-05-29": 361,
       "2026-05-28": 514
     }
   },
@@ -707,17 +708,17 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=bcsmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "bcsmls",
-    "status": "up",
-    "uptime": "89.98%",
-    "uptimeDay": "63.26%",
-    "uptimeWeek": "33.08%",
+    "status": "down",
+    "uptime": "89.99%",
+    "uptimeDay": "63.20%",
+    "uptimeWeek": "33.07%",
     "uptimeMonth": "71.27%",
-    "uptimeYear": "89.98%",
-    "time": 378,
-    "timeDay": 211,
-    "timeWeek": 142,
+    "uptimeYear": "89.99%",
+    "time": 377,
+    "timeDay": 196,
+    "timeWeek": 143,
     "timeMonth": 161,
-    "timeYear": 378,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2026-02-22": 455,
       "2026-03-08": 288,
@@ -743,7 +744,8 @@
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 908,
-      "2026-05-28": 529
+      "2026-05-28": 529,
+      "2026-05-29": 1
     }
   }
 ]
