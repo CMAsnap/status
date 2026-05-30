@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=bcsmls
-status: up
-code: 200
-responseTime: 45
-lastUpdated: 2026-05-30T04:11:04.237Z
+status: down
+code: 404
+responseTime: 120
+lastUpdated: 2026-05-30T10:59:21.818Z
 startTime: 2026-02-22T00:27:51.612Z
 generator: Upptime <https://github.com/upptime/upptime>
