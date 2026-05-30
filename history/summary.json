@@ -270,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ctxmls",
     "status": "down",
-    "uptime": "97.97%",
+    "uptime": "97.96%",
     "uptimeDay": "44.20%",
     "uptimeWeek": "45.83%",
-    "uptimeMonth": "70.12%",
-    "uptimeYear": "96.51%",
+    "uptimeMonth": "69.91%",
+    "uptimeYear": "96.49%",
     "time": 244,
     "timeDay": 323,
     "timeWeek": 651,
@@ -320,7 +320,7 @@
       "2026-05-26": 560,
       "2026-05-28": 213,
       "2026-05-29": 1011,
-      "2026-05-30": 1
+      "2026-05-30": 93
     }
   },
   {
@@ -373,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
     "status": "down",
-    "uptime": "97.16%",
+    "uptime": "97.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "23.82%",
-    "uptimeMonth": "60.66%",
-    "uptimeYear": "95.25%",
+    "uptimeMonth": "60.45%",
+    "uptimeYear": "95.23%",
     "time": 167,
     "timeDay": 87,
     "timeWeek": 148,
@@ -423,7 +423,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 906,
       "2026-05-27": 264,
-      "2026-05-30": 568,
+      "2026-05-30": 660,
       "2026-05-29": 1440,
       "2026-05-28": 515
     }
@@ -434,13 +434,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "doorify",
     "status": "down",
-    "uptime": "94.86%",
-    "uptimeDay": "71.61%",
+    "uptime": "94.85%",
+    "uptimeDay": "68.66%",
     "uptimeWeek": "78.14%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "93.98%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "93.97%",
     "time": 194,
-    "timeDay": 165,
+    "timeDay": 178,
     "timeWeek": 155,
     "timeMonth": 194,
     "timeYear": 215,
@@ -493,7 +493,7 @@
       "2026-05-25": 401,
       "2026-05-26": 634,
       "2026-05-29": 408,
-      "2026-05-30": 1
+      "2026-05-30": 93
     }
   },
   {
@@ -593,13 +593,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "realmls",
     "status": "down",
-    "uptime": "93.06%",
-    "uptimeDay": "62.77%",
+    "uptime": "93.04%",
+    "uptimeDay": "59.82%",
     "uptimeWeek": "54.12%",
-    "uptimeMonth": "76.77%",
-    "uptimeYear": "93.06%",
+    "uptimeMonth": "76.56%",
+    "uptimeYear": "93.04%",
     "time": 165,
-    "timeDay": 149,
+    "timeDay": 150,
     "timeWeek": 104,
     "timeMonth": 184,
     "timeYear": 165,
@@ -658,7 +658,7 @@
       "2026-05-27": 264,
       "2026-05-28": 315,
       "2026-05-29": 408,
-      "2026-05-30": 128
+      "2026-05-30": 220
     }
   },
   {
@@ -667,11 +667,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
     "status": "down",
-    "uptime": "84.91%",
+    "uptime": "84.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "22.91%",
-    "uptimeMonth": "60.46%",
-    "uptimeYear": "84.91%",
+    "uptimeMonth": "60.25%",
+    "uptimeYear": "84.86%",
     "time": 189,
     "timeDay": 86,
     "timeWeek": 138,
@@ -705,7 +705,7 @@
       "2026-05-22": 1440,
       "2026-05-21": 906,
       "2026-05-27": 356,
-      "2026-05-30": 568,
+      "2026-05-30": 660,
       "2026-05-29": 1440,
       "2026-05-28": 514
     }
@@ -715,17 +715,17 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=bcsmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "bcsmls",
-    "status": "up",
+    "status": "down",
     "uptime": "89.16%",
-    "uptimeDay": "22.03%",
-    "uptimeWeek": "34.52%",
+    "uptimeDay": "28.35%",
+    "uptimeWeek": "35.42%",
     "uptimeMonth": "68.23%",
     "uptimeYear": "89.16%",
-    "time": 372,
-    "timeDay": 65,
-    "timeWeek": 134,
-    "timeMonth": 157,
-    "timeYear": 372,
+    "time": 370,
+    "timeDay": 83,
+    "timeWeek": 133,
+    "timeMonth": 156,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2026-02-22": 455,
       "2026-03-08": 288,
@@ -752,7 +752,7 @@
       "2026-05-23": 1440,
       "2026-05-22": 908,
       "2026-05-28": 529,
-      "2026-05-30": 251,
+      "2026-05-30": 252,
       "2026-05-29": 1080
     }
   }
