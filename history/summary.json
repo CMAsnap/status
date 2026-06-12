@@ -365,16 +365,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=nwmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
-    "status": "up",
+    "status": "down",
     "uptime": "97.03%",
-    "uptimeDay": "56.61%",
+    "uptimeDay": "58.75%",
     "uptimeWeek": "83.29%",
     "uptimeMonth": "59.42%",
     "uptimeYear": "95.28%",
     "time": 181,
-    "timeDay": 2286,
-    "timeWeek": 773,
-    "timeMonth": 383,
+    "timeDay": 1554,
+    "timeWeek": 716,
+    "timeMonth": 377,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2025-09-03": 533,
@@ -419,7 +419,8 @@
       "2026-05-31": 75,
       "2026-06-09": 179,
       "2026-06-11": 903,
-      "2026-06-10": 602
+      "2026-06-10": 602,
+      "2026-06-12": 1
     }
   },
   {
@@ -654,17 +655,17 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=maris",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
-    "status": "up",
+    "status": "down",
     "uptime": "85.19%",
-    "uptimeDay": "56.62%",
-    "uptimeWeek": "83.30%",
+    "uptimeDay": "58.76%",
+    "uptimeWeek": "83.29%",
     "uptimeMonth": "59.80%",
     "uptimeYear": "85.19%",
-    "time": 182,
-    "timeDay": 149,
+    "time": 181,
+    "timeDay": 135,
     "timeWeek": 107,
-    "timeMonth": 144,
-    "timeYear": 182,
+    "timeMonth": 143,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2026-02-22": 456,
       "2026-03-08": 290,
@@ -699,7 +700,8 @@
       "2026-05-31": 28,
       "2026-06-09": 179,
       "2026-06-11": 903,
-      "2026-06-10": 602
+      "2026-06-10": 602,
+      "2026-06-12": 1
     }
   },
   {
