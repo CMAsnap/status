@@ -382,15 +382,15 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=nwmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
-    "status": "up",
+    "status": "down",
     "uptime": "96.97%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "94.62%",
     "time": 194,
-    "timeDay": 102,
-    "timeWeek": 111,
+    "timeDay": 109,
+    "timeWeek": 112,
     "timeMonth": 120,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -444,7 +444,7 @@
       "2026-06-18": 393,
       "2026-06-21": 113,
       "2026-06-25": 446,
-      "2026-08-09": 38
+      "2026-08-09": 39
     }
   },
   {
@@ -682,11 +682,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
     "status": "down",
-    "uptime": "88.90%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "88.90%",
+    "uptime": "88.89%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "88.89%",
     "time": 180,
     "timeDay": 157,
     "timeWeek": 150,
@@ -733,7 +733,7 @@
       "2026-06-16": 583,
       "2026-06-18": 393,
       "2026-06-25": 446,
-      "2026-08-09": 1
+      "2026-08-09": 38
     }
   },
   {
