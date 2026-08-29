@@ -394,8 +394,8 @@
     "slug": "nwmls",
     "status": "up",
     "uptime": "96.22%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "10.38%",
+    "uptimeWeek": "1.48%",
     "uptimeMonth": "70.86%",
     "uptimeYear": "92.20%",
     "time": 195,
@@ -709,11 +709,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
     "status": "down",
-    "uptime": "86.36%",
-    "uptimeDay": "11.44%",
+    "uptime": "86.31%",
+    "uptimeDay": "1.11%",
     "uptimeWeek": "21.70%",
-    "uptimeMonth": "77.18%",
-    "uptimeYear": "86.36%",
+    "uptimeMonth": "76.85%",
+    "uptimeYear": "86.31%",
     "time": 181,
     "timeDay": 217,
     "timeWeek": 259,
@@ -770,7 +770,7 @@
       "2026-08-27": 777,
       "2026-08-26": 820,
       "2026-08-28": 1064,
-      "2026-08-29": 246
+      "2026-08-29": 395
     }
   },
   {
