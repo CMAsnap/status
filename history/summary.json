@@ -164,9 +164,9 @@
     "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "43.31%",
-    "uptimeWeek": "83.86%",
-    "uptimeMonth": "96.29%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "83.27%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "98.94%",
     "time": 236,
     "timeDay": 161,
     "timeWeek": 194,
@@ -207,7 +207,7 @@
       "2026-10-27": 18,
       "2026-10-28": 726,
       "2026-10-29": 752,
-      "2026-10-30": 130
+      "2026-10-30": 190
     }
   },
   {
@@ -217,9 +217,9 @@
     "slug": "har",
     "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "92.09%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "94.79%",
     "time": 434,
     "timeDay": 157,
@@ -274,7 +274,7 @@
       "2026-10-28": 609,
       "2026-10-27": 152,
       "2026-10-29": 34,
-      "2026-10-30": 2
+      "2026-10-30": 62
     }
   },
   {
@@ -285,9 +285,9 @@
     "status": "down",
     "uptime": "97.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.71%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "96.05%",
+    "uptimeWeek": "54.12%",
+    "uptimeMonth": "89.44%",
+    "uptimeYear": "96.04%",
     "time": 274,
     "timeDay": 219,
     "timeWeek": 227,
@@ -335,7 +335,7 @@
       "2026-08-09": 56,
       "2026-08-16": 44,
       "2026-08-23": 74,
-      "2026-10-30": 567,
+      "2026-10-30": 627,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1118
@@ -346,17 +346,17 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=sabor",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "sabor",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "93.10%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "93.08%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "99.08%",
     "time": 224,
-    "timeDay": 307,
-    "timeWeek": 221,
-    "timeMonth": 264,
-    "timeYear": 238,
+    "timeDay": 259,
+    "timeWeek": 214,
+    "timeMonth": 260,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2026-01-16": 112,
       "2026-01-18": 77,
@@ -385,7 +385,8 @@
       "2026-08-23": 64,
       "2026-10-27": 302,
       "2026-10-28": 299,
-      "2026-10-29": 95
+      "2026-10-29": 95,
+      "2026-10-30": 2
     }
   },
   {
@@ -396,9 +397,9 @@
     "status": "down",
     "uptime": "92.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.71%",
+    "uptimeWeek": "54.12%",
     "uptimeMonth": "58.38%",
-    "uptimeYear": "80.22%",
+    "uptimeYear": "80.21%",
     "time": 214,
     "timeDay": 314,
     "timeWeek": 223,
@@ -506,7 +507,7 @@
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
-      "2026-10-30": 567,
+      "2026-10-30": 627,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1118
@@ -518,10 +519,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "doorify",
     "status": "down",
-    "uptime": "95.83%",
+    "uptime": "95.82%",
     "uptimeDay": "60.34%",
-    "uptimeWeek": "81.67%",
-    "uptimeMonth": "95.78%",
+    "uptimeWeek": "81.08%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "94.14%",
     "time": 223,
     "timeDay": 200,
@@ -579,7 +580,7 @@
       "2026-10-27": 267,
       "2026-10-28": 730,
       "2026-10-29": 671,
-      "2026-10-30": 180
+      "2026-10-30": 239
     }
   },
   {
@@ -590,9 +591,9 @@
     "status": "down",
     "uptime": "96.25%",
     "uptimeDay": "37.82%",
-    "uptimeWeek": "74.65%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "98.64%",
+    "uptimeWeek": "74.06%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "98.63%",
     "time": 423,
     "timeDay": 213,
     "timeWeek": 409,
@@ -628,7 +629,7 @@
       "2026-10-27": 928,
       "2026-10-28": 384,
       "2026-10-29": 817,
-      "2026-10-30": 427
+      "2026-10-30": 487
     }
   },
   {
@@ -640,8 +641,8 @@
     "uptime": "96.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.13%",
-    "uptimeYear": "95.05%",
+    "uptimeMonth": "49.99%",
+    "uptimeYear": "95.03%",
     "time": 515,
     "timeDay": 431,
     "timeWeek": 410,
@@ -672,7 +673,7 @@
       "2026-05-24": 36,
       "2026-05-31": 47,
       "2026-08-23": 27,
-      "2026-10-30": 568,
+      "2026-10-30": 627,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -696,10 +697,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "realmls",
     "status": "down",
-    "uptime": "94.60%",
+    "uptime": "94.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.28%",
-    "uptimeMonth": "92.24%",
+    "uptimeWeek": "65.69%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "92.72%",
     "time": 170,
     "timeDay": 246,
@@ -761,7 +762,7 @@
       "2026-08-23": 18,
       "2026-10-28": 642,
       "2026-10-27": 757,
-      "2026-10-30": 568,
+      "2026-10-30": 627,
       "2026-10-29": 1433
     }
   },
@@ -771,11 +772,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
     "status": "down",
-    "uptime": "75.09%",
+    "uptime": "75.08%",
     "uptimeDay": "31.21%",
-    "uptimeWeek": "69.57%",
+    "uptimeWeek": "68.98%",
     "uptimeMonth": "66.43%",
-    "uptimeYear": "75.09%",
+    "uptimeYear": "75.08%",
     "time": 191,
     "timeDay": 208,
     "timeWeek": 197,
@@ -877,7 +878,7 @@
       "2026-10-27": 456,
       "2026-10-28": 1053,
       "2026-10-29": 990,
-      "2026-10-30": 568
+      "2026-10-30": 627
     }
   },
   {
@@ -886,11 +887,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "bcsmls",
     "status": "down",
-    "uptime": "94.39%",
+    "uptime": "94.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.71%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "94.39%",
+    "uptimeWeek": "54.12%",
+    "uptimeMonth": "89.44%",
+    "uptimeYear": "94.37%",
     "time": 270,
     "timeDay": 260,
     "timeWeek": 211,
@@ -924,7 +925,7 @@
       "2026-05-28": 529,
       "2026-05-30": 719,
       "2026-05-29": 1080,
-      "2026-10-30": 568,
+      "2026-10-30": 627,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1117
