@@ -164,9 +164,9 @@
     "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "40.42%",
-    "uptimeWeek": "51.92%",
-    "uptimeMonth": "88.94%",
-    "uptimeYear": "98.34%",
+    "uptimeWeek": "51.70%",
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "98.33%",
     "time": 237,
     "timeDay": 179,
     "timeWeek": 169,
@@ -210,7 +210,7 @@
       "2026-10-30": 684,
       "2026-11-01": 1293,
       "2026-10-31": 870,
-      "2026-11-02": 502
+      "2026-11-02": 525
     }
   },
   {
@@ -221,8 +221,8 @@
     "status": "down",
     "uptime": "97.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.57%",
-    "uptimeMonth": "90.01%",
+    "uptimeWeek": "56.35%",
+    "uptimeMonth": "89.96%",
     "uptimeYear": "95.00%",
     "time": 434,
     "timeDay": 68,
@@ -277,7 +277,7 @@
       "2026-10-30": 762,
       "2026-10-31": 1021,
       "2026-11-01": 862,
-      "2026-11-02": 938
+      "2026-11-02": 960
     }
   },
   {
@@ -288,9 +288,9 @@
     "status": "down",
     "uptime": "97.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.17%",
-    "uptimeMonth": "78.87%",
-    "uptimeYear": "95.16%",
+    "uptimeWeek": "7.95%",
+    "uptimeMonth": "78.82%",
+    "uptimeYear": "95.15%",
     "time": 274,
     "timeDay": 86,
     "timeWeek": 174,
@@ -338,7 +338,7 @@
       "2026-08-09": 56,
       "2026-08-16": 44,
       "2026-08-23": 74,
-      "2026-11-02": 938,
+      "2026-11-02": 960,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -355,8 +355,8 @@
     "status": "down",
     "uptime": "97.89%",
     "uptimeDay": "25.62%",
-    "uptimeWeek": "60.53%",
-    "uptimeMonth": "90.92%",
+    "uptimeWeek": "60.31%",
+    "uptimeMonth": "90.87%",
     "uptimeYear": "98.45%",
     "time": 225,
     "timeDay": 100,
@@ -393,7 +393,7 @@
       "2026-10-28": 299,
       "2026-10-29": 95,
       "2026-10-30": 472,
-      "2026-11-02": 569,
+      "2026-11-02": 591,
       "2026-11-01": 1440,
       "2026-10-31": 803
     }
@@ -404,9 +404,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "nwmls",
     "status": "down",
-    "uptime": "92.39%",
+    "uptime": "92.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.17%",
+    "uptimeWeek": "7.95%",
     "uptimeMonth": "55.10%",
     "uptimeYear": "79.32%",
     "time": 214,
@@ -516,7 +516,7 @@
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
-      "2026-11-02": 938,
+      "2026-11-02": 960,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -532,9 +532,9 @@
     "slug": "doorify",
     "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "62.97%",
-    "uptimeWeek": "57.76%",
-    "uptimeMonth": "90.28%",
+    "uptimeDay": "61.44%",
+    "uptimeWeek": "57.54%",
+    "uptimeMonth": "90.23%",
     "uptimeYear": "94.57%",
     "time": 222,
     "timeDay": 112,
@@ -592,7 +592,7 @@
       "2026-10-30": 655,
       "2026-10-31": 871,
       "2026-11-01": 588,
-      "2026-11-02": 477
+      "2026-11-02": 499
     }
   },
   {
@@ -603,9 +603,9 @@
     "status": "down",
     "uptime": "95.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.11%",
-    "uptimeMonth": "83.46%",
-    "uptimeYear": "97.75%",
+    "uptimeWeek": "27.90%",
+    "uptimeMonth": "83.41%",
+    "uptimeYear": "97.74%",
     "time": 423,
     "timeDay": 64,
     "timeWeek": 384,
@@ -641,7 +641,7 @@
       "2026-10-27": 928,
       "2026-10-28": 384,
       "2026-10-29": 817,
-      "2026-11-02": 938,
+      "2026-11-02": 960,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1299
@@ -656,7 +656,7 @@
     "uptime": "96.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.42%",
+    "uptimeMonth": "39.37%",
     "uptimeYear": "94.15%",
     "time": 516,
     "timeDay": 287,
@@ -688,7 +688,7 @@
       "2026-05-24": 36,
       "2026-05-31": 47,
       "2026-08-23": 27,
-      "2026-11-02": 938,
+      "2026-11-02": 960,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -716,7 +716,7 @@
     "slug": "realmls",
     "status": "up",
     "uptime": "94.01%",
-    "uptimeDay": "5.61%",
+    "uptimeDay": "7.14%",
     "uptimeWeek": "20.54%",
     "uptimeMonth": "81.72%",
     "uptimeYear": "92.74%",
@@ -789,16 +789,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=maris",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "maris",
-    "status": "down",
-    "uptime": "74.33%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "30.23%",
+    "status": "up",
+    "uptime": "74.32%",
+    "uptimeDay": "1.53%",
+    "uptimeWeek": "30.02%",
     "uptimeMonth": "63.52%",
-    "uptimeYear": "74.33%",
+    "uptimeYear": "74.32%",
     "time": 191,
-    "timeDay": 146,
-    "timeWeek": 174,
-    "timeMonth": 216,
+    "timeDay": 157,
+    "timeWeek": 175,
+    "timeMonth": 215,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-02-22": 456,
@@ -899,7 +899,7 @@
       "2026-10-30": 1016,
       "2026-11-01": 1419,
       "2026-10-31": 1159,
-      "2026-11-02": 938
+      "2026-11-02": 959
     }
   },
   {
@@ -909,9 +909,9 @@
     "slug": "bcsmls",
     "status": "down",
     "uptime": "93.25%",
-    "uptimeDay": "6.65%",
-    "uptimeWeek": "10.94%",
-    "uptimeMonth": "79.51%",
+    "uptimeDay": "5.11%",
+    "uptimeWeek": "10.72%",
+    "uptimeMonth": "79.46%",
     "uptimeYear": "93.25%",
     "time": 267,
     "timeDay": 141,
@@ -952,7 +952,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1117,
-      "2026-11-02": 938
+      "2026-11-02": 961
     }
   }
 ]
