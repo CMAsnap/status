@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=sabor
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2026-11-02T01:47:53.215Z
+status: down
+code: 404
+responseTime: 98
+lastUpdated: 2026-11-02T07:56:48.221Z
 startTime: 2023-08-20T07:46:37.174Z
 generator: Upptime <https://github.com/upptime/upptime>
