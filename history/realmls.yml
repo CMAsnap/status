@@ -1,7 +1,7 @@
 url: https://app.cmasnap.com/api/listings?datasetId=realmls
-status: up
-code: 200
-responseTime: 134
-lastUpdated: 2026-11-08T16:36:32.245Z
+status: down
+code: 404
+responseTime: 84
+lastUpdated: 2026-11-08T19:42:34.711Z
 startTime: 2025-06-08T17:16:52.345Z
 generator: Upptime <https://github.com/upptime/upptime>
