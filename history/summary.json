@@ -104,17 +104,17 @@
     "url": "https://print.cmasnap.com/api/render/?url=https%3A%2F%2Fapp.cmasnap.com%2Freports%2F9c12c9f7-a837-4151-ad87-71321a01926a%3FprintApiToken%3D$PRINT_API_TOKEN%26format%3Dpdf&output=html",
     "icon": "https://icons.duckduckgo.com/ip3/print.cmasnap.com.ico",
     "slug": "print",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "99.49%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.29%",
-    "time": 12653,
-    "timeDay": 10813,
-    "timeWeek": 11365,
-    "timeMonth": 11896,
-    "timeYear": 11983,
+    "time": 12656,
+    "timeDay": 11510,
+    "timeWeek": 11471,
+    "timeMonth": 11905,
+    "timeYear": 11984,
     "dailyMinutesDown": {
       "2025-11-24": 23,
       "2025-12-01": 144,
@@ -150,7 +150,7 @@
       "2026-08-16": 72,
       "2026-08-23": 102,
       "2026-11-15": 48,
-      "2026-11-22": 51
+      "2026-11-22": 52
     }
   },
   {
@@ -158,16 +158,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=actris",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "actris",
-    "status": "down",
+    "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "74.34%",
     "uptimeYear": "97.12%",
     "time": 239,
-    "timeDay": 175,
-    "timeWeek": 219,
-    "timeMonth": 202,
+    "timeDay": 206,
+    "timeWeek": 221,
+    "timeMonth": 203,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2026-01-16": 117,
@@ -217,7 +217,7 @@
       "2026-11-09": 1271,
       "2026-11-10": 411,
       "2026-11-15": 38,
-      "2026-11-22": 42
+      "2026-11-22": 43
     }
   },
   {
@@ -225,16 +225,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=har",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "har",
-    "status": "down",
+    "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "67.96%",
     "uptimeYear": "96.48%",
     "time": 438,
-    "timeDay": 152,
-    "timeWeek": 207,
-    "timeMonth": 188,
+    "timeDay": 196,
+    "timeWeek": 212,
+    "timeMonth": 189,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2026-01-16": 115,
@@ -282,7 +282,7 @@
       "2026-11-07": 1440,
       "2026-11-10": 597,
       "2026-11-15": 29,
-      "2026-11-22": 33
+      "2026-11-22": 34
     }
   },
   {
@@ -290,16 +290,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=ctxmls",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "ctxmls",
-    "status": "down",
+    "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "50.19%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "50.18%",
     "uptimeYear": "92.77%",
-    "time": 277,
-    "timeDay": 164,
-    "timeWeek": 271,
-    "timeMonth": 208,
+    "time": 278,
+    "timeDay": 244,
+    "timeWeek": 277,
+    "timeMonth": 211,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2026-01-16": 114,
@@ -360,7 +360,7 @@
       "2026-10-28": 1440,
       "2026-10-27": 1118,
       "2026-11-15": 20,
-      "2026-11-22": 23
+      "2026-11-22": 24
     }
   },
   {
@@ -368,16 +368,16 @@
     "url": "https://app.cmasnap.com/api/listings?datasetId=sabor",
     "icon": "https://icons.duckduckgo.com/ip3/app.cmasnap.com.ico",
     "slug": "sabor",
-    "status": "down",
+    "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "75.67%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "75.66%",
     "uptimeYear": "97.18%",
     "time": 228,
-    "timeDay": 166,
-    "timeWeek": 265,
-    "timeMonth": 207,
+    "timeDay": 235,
+    "timeWeek": 270,
+    "timeMonth": 208,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2026-01-16": 112,
@@ -420,7 +420,7 @@
       "2026-11-07": 1075,
       "2026-11-09": 727,
       "2026-11-10": 644,
-      "2026-11-22": 14
+      "2026-11-22": 15
     }
   },
   {
@@ -431,7 +431,7 @@
     "status": "down",
     "uptime": "91.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.66%",
+    "uptimeWeek": "68.64%",
     "uptimeMonth": "43.03%",
     "uptimeYear": "76.34%",
     "time": 218,
@@ -557,7 +557,7 @@
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1118,
-      "2026-11-22": 602,
+      "2026-11-22": 604,
       "2026-11-21": 1440,
       "2026-11-20": 1118
     }
@@ -732,7 +732,7 @@
       "2026-05-24": 36,
       "2026-05-31": 47,
       "2026-08-23": 27,
-      "2026-11-22": 602,
+      "2026-11-22": 604,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -854,8 +854,8 @@
     "status": "down",
     "uptime": "72.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.38%",
-    "uptimeMonth": "53.88%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "53.87%",
     "uptimeYear": "72.84%",
     "time": 190,
     "timeDay": 175,
@@ -970,7 +970,7 @@
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-10": 1415,
-      "2026-11-22": 602,
+      "2026-11-22": 604,
       "2026-11-21": 1440,
       "2026-11-20": 843
     }
